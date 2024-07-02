@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Channel List</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #FFFFFF;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            flex-direction: column;
+        }
+        h1 {
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .channel-item {
+            text-align: center;
+            margin: 20px 0;
+            padding: 20px;
+            border: 1px solid #333333;
+            border-radius: 10px;
+            width: 80%;
+            max-width: 600px;
+        }
+        .channel-link {
+            color: #1E90FF;
+            cursor: pointer;
+            text-decoration: none;
+            font-size: 1.2em;
+            display: block;
+            margin-top: 10px;
+            transition: background-color 0.3s ease;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .channel-link:hover {
+            background-color: #333333;
+        }
+        .channel-image {
+            width: 100px; /* Adjust the size as needed */
+            height: auto;
+            border-radius: 50%;
+            margin-bottom: 10px;
+        }
+        .channel-description {
+            font-size: 1em;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>AnythingSMP Member</h1>
+    <ul>
+        <li class="channel-item">
+            <img src="https://yt3.googleusercontent.com/HCvu5D3FLi8hKzwr5oGpVz57dLDa4pqTWBsr4sa8m2IPGdSPIYIk5VWepgiEr5tke98r0ZVN5Q=s176-c-k-c0x00ffffff-no-rj" alt="Channel 1" class="channel-image">
+            <a class="channel-link" onclick="openChannel('@MisuyaXZ')">MisuyaXZ</a>
+            <p class="channel-description">CEO: ทำทุกอย่างตั้งแต่ทำโต๊ะคร๊าฟยันสร้างเซิฟสร้างมอดสร้างlauncherสร้างแม่งทุกอย่าง</p>
+        </li>
+        <li class="channel-item">
+            <img src="https://yt3.googleusercontent.com/PeSZ6I8_VzHFImePHsfKx2WN2dvNl-jruvCL9uxt_HdUUYgZeJd8SNN-5IJk2pdt14oP5lygSA=s176-c-k-c0x00ffffff-no-rj" alt="Channel 2" class="channel-image">
+            <a class="channel-link" onclick="openChannel('@Fiatake1311')">Fiatake</a>
+            <p class="channel-description">แอดมิน: ติดโปรเจคจบเลยมากเกาะแดก</p>
+        </li>
+        <li class="channel-item">
+            <img src="https://yt3.googleusercontent.com/14ov0J-IL3dD61lHdC77r9-XbAHtZ0gF_Yy3U0xR3PRx7Zrog0jBlxceC97Nhj5sYaHORZaTAg=s176-c-k-c0x00ffffff-no-rj" alt="Channel 2" class="channel-image">
+            <a class="channel-link" onclick="openChannel('@GrapeDuck-banana')">↜ Grape Duck ↝</a>
+            <p class="channel-description">คนรู้จัก: เห็นว่าน่าสนุกดีเลยอยากมาเล่นด้วย</p>
+        </li>
+        <!-- Add more channels as needed -->
+    </ul>
+
+    <script>
+        function openChannel(channelId) {
+            const url = `https://www.youtube.com/${channelId}`;
+            window.open(url, '_blank');
+        }
+    </script>
+</body>
+</html>
