@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
