@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "rss": "https://zapier.com/engine/rss/19333045/MisuyaXZ",
+  "rss": "http://127.0.0.1:5000/rss",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
