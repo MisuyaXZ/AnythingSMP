@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "rss": "https://maplenews.onrender.com/rss",
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -13,7 +13,7 @@
       "description": "AnythingSMP Running Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/AnythingSMP-1.20.1.png",
       "version": "1.0.0",
-      "address": "animals-banking.gl.at.ply.gg:40328",
+      "address": "maplesang.thddns.net:2210",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -116,6 +116,486 @@
           ]
         },
         {
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20@jar",
+          "name": "AppleSkin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1064362,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/appleskin-fabric-mc1.20.1-2.5.1.jar",
+            "MD5": "723370be246a876144ae424cbbfd60f4"
+          }
+        },
+        {
+          "id": "dev.architectury.utils:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 585207,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/architectury-9.2.14-fabric.jar",
+            "MD5": "2ae04e0dad60a390031ee341e0b2ab45"
+          }
+        },
+        {
+          "id": "artifacts:artifacts:9.5.12@jar",
+          "name": "Artifacts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 953089,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/artifacts-fabric-9.5.12.jar",
+            "MD5": "c27b379274d4a6f2aba26350aed80bd7"
+          }
+        },
+        {
+          "id": "com.seacroak:basicweapons:1.2.2@jar",
+          "name": "Basic Weapons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 245393,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/basicweapons-fabric-mc1.20.1+1.2.2.jar",
+            "MD5": "ddc385a66603952b5525c1de0960f00d"
+          }
+        },
+        {
+          "id": "org.betterx:bclib:3.0.14@jar",
+          "name": "BCLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2312835,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/bclib-3.0.14.jar",
+            "MD5": "f8ace3a498b889040dea6ff1ea85d288"
+          }
+        },
+        {
+          "id": "dev.sapphic.beacons:beaconoverhaul:1.8.4+1.20@jar",
+          "name": "Beacon Overhaul",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 370540,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/BeaconOverhaul-1.8.4+1.20.jar",
+            "MD5": "d3a25ddfb7786d6f58681e3ce643de50"
+          }
+        },
+        {
+          "id": "generated.fabricmod:bc_bewitchment_compat:1@jar",
+          "name": "Better Combat Bewitchment Compatibility",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4803,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/Better-Combat-Bewitchment-Compat.jar",
+            "MD5": "fd2ade67572e5f5df5a11887f92c84d5"
+          }
+        },
+        {
+          "id": "generated.fabricmod:better:end-4.0.11@jar",
+          "name": "Better",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 92544800,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/better-end-4.0.11.jar",
+            "MD5": "25be609cb7b9fc6e4e8782c6fdfea35b"
+          }
+        },
+        {
+          "id": "net.bettercombat:bettercombat:1.8.5+1.20.1@jar",
+          "name": "Better Combat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 902818,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/bettercombat-fabric-1.8.5+1.20.1.jar",
+            "MD5": "220f6c39ad08e28807a4d5307bf56d9b"
+          }
+        },
+        {
+          "id": "com.bawnorton:bettertrims:2.3.1@jar",
+          "name": "BetterTrims",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 186320,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/bettertrims-2.3.1.jar",
+            "MD5": "4a9784bcd78d3dafb82aae06af5d31b6"
+          }
+        },
+        {
+          "id": "moriyashiine.bewitchment:bewitchment:1.20-8@jar",
+          "name": "Bewitchment",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5731599,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/bewitchment-1.20-8.jar",
+            "MD5": "9ccbfbf071d5b45065df64ef13fa77d7"
+          }
+        },
+        {
+          "id": "com.tterrag:blur:3.1.0@jar",
+          "name": "Blur (Fabric)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 164085,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/blur-3.1.0.jar",
+            "MD5": "5c2350374a817c510596dc2e96d5a20a"
+          }
+        },
+        {
+          "id": "net.darkhax:bookshelf:20.2.13@jar",
+          "name": "Bookshelf",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 322180,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/Bookshelf-Fabric-1.20.1-20.2.13.jar",
+            "MD5": "6aae84a4b71657b5f06634230651b3f9"
+          }
+        },
+        {
+          "id": "net.darkhax:botanypots:13.0.35@jar",
+          "name": "BotanyPots",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1033515,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/BotanyPots-Fabric-1.20.1-13.0.35.jar",
+            "MD5": "6f85a406c97a06020066e5d8b21636b9"
+          }
+        },
+        {
+          "id": "com.ultramega:botanypotstiers:6.0.1@jar",
+          "name": "BotanyPotsTiers",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1018828,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/BotanyPotsTiers-Fabric-1.20.1-6.0.1.jar",
+            "MD5": "be13a516d318c236b6814b87bd736468"
+          }
+        },
+        {
+          "id": "generated.fabricmod:botanytrees:9.0.11@jar",
+          "name": "BotanyTrees",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 158393,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/BotanyTrees-Fabric-1.20.1-9.0.11.jar",
+            "MD5": "7000f20381da90b6b4ff2177c63412f6"
+          }
+        },
+        {
+          "id": "dev.strubbelkopp:bundle_jumble:1.0.2-mc1.20.1@jar",
+          "name": "Bundle Jumble",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 30490,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/bundle_jumble-1.0.2-mc1.20.1.jar",
+            "MD5": "d04e04a6ecef44699ff5005d87f3f106"
+          }
+        },
+        {
+          "id": "tschipp.carryon:carryon:2.1.2.7@jar",
+          "name": "Carry On",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 443033,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/carryon-fabric-1.20.1-2.1.2.7.jar",
+            "MD5": "c050f3d0934bbd8893fe2353eab906bb"
+          }
+        },
+        {
+          "id": "dzwdz.chat_heads:chat_heads:0.12.6@jar",
+          "name": "Chat Heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 60523,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/chat_heads-0.12.6-fabric-1.20.jar",
+            "MD5": "ff5430ed9ae28bf64be89c0dd9dff774"
+          }
+        },
+        {
+          "id": "com.koteinik:chunksfadein:1.0.4-1.20.1@jar",
+          "name": "Chunks Fade In",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 209643,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/chunksfadein-v1.0.4-1.20.1.jar",
+            "MD5": "4e07c5a59a313f91d492f1a82ebdfba3"
+          }
+        },
+        {
+          "id": "nl.enjarai:cicada:0.8.0+1.20.1@jar",
+          "name": "CICADA",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 86111,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/cicada-lib-0.8.1+1.20.1.jar",
+            "MD5": "f8a8ebdcd794b646fed23a6974cdbad0"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:11.1.118@jar",
+          "name": "Cloth Config v11",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1159192,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/cloth-config-11.1.118-fabric.jar",
+            "MD5": "eb13a834db10ee7e8c5e6a6d4b037fbd"
+          }
+        },
+        {
+          "id": "com.natamus:collective:7.70@jar",
+          "name": "Collective",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 638717,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/collective-1.20.1-7.70.jar",
+            "MD5": "6776462b28619a98a3ecd397e2ed1523"
+          }
+        },
+        {
+          "id": "terrails.colorfulhearts:colorfulhearts:4.2.11@jar",
+          "name": "Colorful Hearts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 328694,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/colorfulhearts-fabric-1.20.1-4.2.11.jar",
+            "MD5": "5562d067b7d9467f91b8ad1cabc53f98"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:comforts:6.3.5+1.20.1@jar",
+          "name": "Comforts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 719114,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/comforts-fabric-6.3.5+1.20.1.jar",
+            "MD5": "08251bc449a1fdfcce0d077985db434c"
+          }
+        },
+        {
+          "id": "snownee.companion:companion:5.1.0@jar",
+          "name": "Companion",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 41974,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/Companion-1.20-fabric-5.1.0.jar",
+            "MD5": "2071206b5129e754f2d1f72a59c4f589"
+          }
+        },
+        {
+          "id": "com.github.legoatoom:connectiblechains:2.2.1+1.20.1@jar",
+          "name": "Connectible Chains",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 138285,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/connectiblechains-2.2.1+1.20.1.jar",
+            "MD5": "96f2929ef2171dae22b807bb3d4b46a7"
+          }
+        },
+        {
+          "id": "me.pepperbell:continuity:3.0.0-beta.5+1.20.1@jar",
+          "name": "Continuity",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1009252,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/continuity-3.0.0-beta.5+1.20.1.jar",
+            "MD5": "1772f06a48c83414f4c6dfc2db4ac530"
+          }
+        },
+        {
+          "id": "com.simibubi:create:0.5.1-f-build.1335+mc1.20.1@jar",
+          "name": "Create",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 21606804,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/create-fabric-0.5.1-f-build.1335+mc1.20.1.jar",
+            "MD5": "c862160d1d4f5edd94461c4cff1dda10"
+          }
+        },
+        {
+          "id": "tech.thatgravyboat:creeperoverhaul:3.0.2@jar",
+          "name": "Creeper Overhaul",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1451306,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/creeperoverhaul-3.0.2-fabric.jar",
+            "MD5": "0b13cba2a00aafb49298f38d2d3f2e32"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:diet:2.1.1+1.20.1@jar",
+          "name": "Diet",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 668271,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/diet-fabric-2.1.1+1.20.1.jar",
+            "MD5": "793602553fb1ae7cdc3c55a00c8c5891"
+          }
+        },
+        {
+          "id": "nl.enjarai.doabarrelroll:do_a_barrel_roll:3.6.0+1.20.1@jar",
+          "name": "Do a Barrel Roll",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 502530,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/do_a_barrel_roll-fabric-3.6.0+1.20.1.jar",
+            "MD5": "0495ae6cd06bdf6f0fa4e3966e54ee5e"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:dummmmmmy:1.20-1.8.17b@jar",
+          "name": "MmmMmmMmmMmm",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 328036,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/dummmmmmy-1.20-1.8.17b-fabric.jar",
+            "MD5": "e923be70a26fb098975146e3f18fed69"
+          }
+        },
+        {
+          "id": "net.lostluma.dynamic_fps.impl.fabric.compat:dynamic_fps:3.6.0@jar",
+          "name": "Dynamic FPS",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 178402,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/dynamic-fps-3.6.0+minecraft-1.20.0-fabric.jar",
+            "MD5": "8b614b7ef828fb537f409c3f5b69d374"
+          }
+        },
+        {
+          "id": "net.tschipcraft:dynamiclights:1.8.2+mod@jar",
+          "name": "Dynamic Lights",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 212493,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/dynamiclights-v1.8.2-mc1.17x-1.20x-mod.jar",
+            "MD5": "917b09fe61ecfa7b7d1cbc746540dc98"
+          }
+        },
+        {
+          "id": "org.orecruncher:dsurround:0.3.3@jar",
+          "name": "Dynamic Surroundings",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 14370046,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/DynamicSurroundings-Fabric-1.20.1-0.3.3.jar.disabled",
+            "MD5": "f539ae1290ca879e5909cdca00469202"
+          }
+        },
+        {
+          "id": "fuzs.easyanvils:easyanvils:8.0.2@jar",
+          "name": "Easy Anvils",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 129625,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/EasyAnvils-v8.0.2-1.20.1-Fabric.jar",
+            "MD5": "c9ba3b47dcd5f93002ee1a5237abdf03"
+          }
+        },
+        {
+          "id": "com.natamus:easyelytratakeoff:4.2@jar",
+          "name": "Easy Elytra Takeoff",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 29510,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/easyelytratakeoff-1.20.1-4.2.jar",
+            "MD5": "6af231da282ed16f6f2512773fa033a8"
+          }
+        },
+        {
+          "id": "fuzs.easymagic:easymagic:8.0.1@jar",
+          "name": "Easy Magic",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 104693,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/EasyMagic-v8.0.1-1.20.1-Fabric.jar",
+            "MD5": "44d78d2ca99e6d5f4e9fdcfd2c5daec5"
+          }
+        },
+        {
+          "id": "fuzs.easyshulkerboxes:easyshulkerboxes:8.0.2@jar",
+          "name": "Easy Shulker Boxes",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 616123,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/EasyShulkerBoxes-v8.0.2-1.20.1-Fabric.jar",
+            "MD5": "ce884c3d4041b34bf0a77249ebcb9e9c"
+          }
+        },
+        {
+          "id": "dev.kikugie.elytratrims.platform:elytratrims:3.3.0@jar",
+          "name": "Elytra Trims",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 583038,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/elytratrims-fabric-3.3.0+1.20.1.jar",
+            "MD5": "0974f24223dea623bbc3a2563aa11635"
+          }
+        },
+        {
+          "id": "io.github.kosmx.emotes:emotecraft:2.2.7-b.build.50@jar",
+          "name": "Emotecraft",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 873611,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+            "MD5": "3a7abdac2462955c5a51af3cd14712ff"
+          }
+        },
+        {
+          "id": "tech.alexnijjar:endermanoverhaul:1.0.4@jar",
+          "name": "Enderman Overhaul",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1194281,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/endermanoverhaul-fabric-1.20.1-1.0.4.jar",
+            "MD5": "aecdcf146c1678c91efc14eccf5bc0d6"
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:2.0.2@jar",
+          "name": "Entity Model Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 388685,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/entity_model_features_fabric_1.20.1-2.0.2.jar",
+            "MD5": "c01d0770b85957ccdce6e76c5ab63836"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:6.1.1@jar",
+          "name": "Entity Texture Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 601796,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/entity_texture_features_fabric_1.20.1-6.1.1.jar",
+            "MD5": "4c649a716e986df824aa75d3ed2eca77"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.6.6@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 66648,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/entityculling-fabric-1.6.6-mc1.20.1.jar",
+            "MD5": "e0e7dbb4387ec2ac5fc74f43206e1521"
+          }
+        },
+        {
+          "id": "net.superkat:explosiveenhancement:1.2.2-1.20.x@jar",
+          "name": "Explosive Enhancement",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 102550,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/explosive-enhancement-1.2.2-1.20.x.jar",
+            "MD5": "5b5ccdd62571812ed2352c1259797454"
+          }
+        },
+        {
+          "id": "io.github.mortuusars:exposure:1.7.1@jar",
+          "name": "Exposure",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1256974,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/exposure-1.20.1-1.7.1-fabric.jar",
+            "MD5": "83a1248d11ef14f9288fe549e9e8dbdf"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.92.2+1.20.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -123,6 +603,206 @@
             "size": 2107289,
             "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
             "MD5": "92c58961866741106aae126558c9d4a7"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.11.0+kotlin.2.0.0@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7015315,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
+            "MD5": "ac91311ce91421ca52a96d2a4e4f078c"
+          }
+        },
+        {
+          "id": "randommcsomethin.fallingleaves:fallingleaves:1.15.6@jar",
+          "name": "Falling Leaves",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 156773,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/fallingleaves-1.15.6+1.20.1.jar",
+            "MD5": "1d13a592b3c329e2bc10b658161e8429"
+          }
+        },
+        {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-2.1.1+refabricated@jar",
+          "name": "Farmer's Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6723291,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/FarmersDelight-1.20.1-2.1.1+refabricated.jar",
+            "MD5": "96693962c17fd534ec6756a37598d127"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:6.0.1@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 125197,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
+            "MD5": "a19272e427f75fea59127de6610ea26b"
+          }
+        },
+        {
+          "id": "fuzs.forgeconfigapiport.impl:forgeconfigapiport:8.0.0@jar",
+          "name": "Forge Config API Port",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 397198,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
+            "MD5": "9b680a583230400e887dc545aa974936"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.4.7@jar",
+          "name": "GeckoLib 4",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1019299,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/geckolib-fabric-1.20.1-4.4.7.jar",
+            "MD5": "203c102e94b02b861c41f76b62805814"
+          }
+        },
+        {
+          "id": "generated.fabricmod:geophilic:2.4.2@jar",
+          "name": "Geophilic",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 891784,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/Geophilic%20v2.4.2%20f15-48.jar",
+            "MD5": "23cf9efd855765c0a6e3bf5056707d54"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:hauntedharvest:1.20-3.1.22@jar",
+          "name": "Haunted Harvest",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 616702,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/hauntedharvest-1.20-3.1.22-fabric.jar",
+            "MD5": "5f084cbb43136a9a753e7cca339ad87d"
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.2.18+1.20.4@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 250364,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.2.18+1.20.4.jar",
+            "MD5": "7530923c63a9696f7d18eb2bc37a6f98"
+          }
+        },
+        {
+          "id": "com.oscimate:oscimate_soulflame:1.1.0@jar",
+          "name": "Improved Flame Overlays",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 120485,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/improved-fire-overlay-1.20.1-v3.jar",
+            "MD5": "bbe0a4bc9e49b99134dec44b4e72da1e"
+          }
+        },
+        {
+          "id": "link.infra:indium:1.0.30+mc1.20.4@jar",
+          "name": "Indium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 104805,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/indium-1.0.30+mc1.20.4.jar",
+            "MD5": "e0b3675f1e6e8f00da58d42ec1bd1be7"
+          }
+        },
+        {
+          "id": "de.rubixdev:inventorio:1.10.3@jar",
+          "name": "Inventorio",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 357738,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/inventorio-mc1.20.1-fabric-v1.10.3.jar",
+            "MD5": "8da21d1c63b339b9728830253f2ba695"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.6.17@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2421552,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/iris-mc1.20.1-1.6.17.jar",
+            "MD5": "e268a58aab4200ce5fe68d298cd667f6"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.3.0.8@jar",
+          "name": "Just Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1153559,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.3.0.8.jar",
+            "MD5": "3114f3aff553de59e02744cc2353ef65"
+          }
+        },
+        {
+          "id": "snownee.kiwi:kiwi:11.6.2@jar",
+          "name": "Kiwi Library",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 905611,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/Kiwi-1.20.1-fabric-11.6.2.jar",
+            "MD5": "2f7f34e521dffc8385681fe64c5d2c83"
+          }
+        },
+        {
+          "id": "dev.lambdaurora:lambdynlights:2.3.2+1.20.1@jar",
+          "name": "LambDynamicLights",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 573183,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/lambdynamiclights-2.3.2+1.20.1.jar",
+            "MD5": "9e931a5331bfe8cee677a413b8aea776"
+          }
+        },
+        {
+          "id": "de.cristelknight:doapi:1.2.15@jar",
+          "name": "[Let's Do] API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1702813,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/letsdo-API-fabric-1.2.15-fabric.jar",
+            "MD5": "572b3414c6e93d6679f6e89a2ae49995"
+          }
+        },
+        {
+          "id": "net.satisfy:vinery:1.4.25@jar",
+          "name": "[Let's Do] Vinery",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3047110,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/letsdo-vinery-fabric-1.4.25.jar",
+            "MD5": "48ae1c8b6bb0a82a961a3bf9b285bf08"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:lithium:0.11.2@jar",
+          "name": "Lithium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 645865,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.2.jar",
+            "MD5": "026ca4110d57f16f701b400ad5d2ca26"
+          }
+        },
+        {
+          "id": "com.kreezcraft:localizedchat:5.1.2@jar",
+          "name": "Localized Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 26315,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/LocalizedChat-fabric-1.20.1-5.1.2.jar",
+            "MD5": "63802a2cbd8139a73d4f50f35bf8bcc9"
           }
         },
         {
@@ -136,13 +816,123 @@
           }
         },
         {
-          "id": "net.misuyaxz:mahoukihon:0.3-1.20.1@jar",
-          "name": "Mahou Kihon",
+          "id": "generated.fabricmod:make_bubbles_pop:0.2.0-fabric-mc1.19.4+@jar",
+          "name": "Make_bubbles_pop",
           "type": "FabricMod",
           "artifact": {
-            "size": 2029674,
-            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/mahoukihon-0.3-1.20.1.jar",
-            "MD5": "2467b216de997cc95d9521c8dc44326b"
+            "size": 18643,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/make_bubbles_pop-0.2.0-fabric-mc1.19.4+.jar",
+            "MD5": "03c3b1c78677e44127eafa695018c7e8"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mavapi:1.1.4@jar",
+          "name": "More Axolotl Variants API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 592470,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/mavapi-1.1.4-mc1.20.1.jar",
+            "MD5": "4f155b59b33081a94e0198c96727dd16"
+          }
+        },
+        {
+          "id": "fabric.io.github.akashiikun:mavm:1.2.6@jar",
+          "name": "More Axolotl Variants Mod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 792700,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/mavm-1.2.6-mc1.20.1.jar",
+            "MD5": "14b2125d2e8253c913e3fb1b5d85aa4e"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mr_mob_variants:1.0.0@jar",
+          "name": "Mob Variants",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 18603,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/mob-variants-1.0.0.jar",
+            "MD5": "55989b09e6139db7f224dcf334e98ada"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:7.2.2@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 721366,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
+            "MD5": "2629511a2d3b141d9f2a24dc9685637e"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.12.6@jar",
+          "name": "Moonlight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1169563,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/moonlight-1.20-2.12.6-fabric.jar",
+            "MD5": "c5869c3082dc5188bd139395a336335d"
+          }
+        },
+        {
+          "id": "com.github.nyuppo:moremobvariants:1.3.0.1@jar",
+          "name": "More Mob Variants",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 381101,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/moremobvariants-fabric+1.20.1-1.3.0.1.jar",
+            "MD5": "89162f3ece430084a1c3ff12e8645503"
+          }
+        },
+        {
+          "id": "yalter.mousetweaks:mousetweaks:2.26@jar",
+          "name": "Mouse Tweaks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 77943,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/MouseTweaks-fabric-mc1.20-2.26.jar",
+            "MD5": "3138c776d370c90603938eb54d17469a"
+          }
+        },
+        {
+          "id": "com.mineblock11.mru.entry:mru:0.4.4+1.20.1@jar",
+          "name": "Mineblock's Repeated Utilities",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1182726,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/mru-0.4.4+1.20.1.jar",
+            "MD5": "9592f4ae06a2a8a7ef3d411fe22d70bd"
+          }
+        },
+        {
+          "id": "net.jmb19905:niftycarts:3.0.2+1.20.1@jar",
+          "name": "NiftyCarts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 202440,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/niftycarts-3.0.2+1.20.1.jar",
+            "MD5": "d17c30ef18843f0c98a22a39be2e0d6f"
+          }
+        },
+        {
+          "id": "dev.tr7zw:notenoughanimations:1.7.4@jar",
+          "name": "NotEnoughAnimations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 424028,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/notenoughanimations-fabric-1.7.4-mc1.20.1.jar",
+            "MD5": "a55a339f32a5e6a8c2465b5e79130a50"
+          }
+        },
+        {
+          "id": "generated.fabricmod:nvidium:0.2.6-beta@jar",
+          "name": "Nvidium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 164283,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/nvidium-0.2.6-beta.jar",
+            "MD5": "6b5c5cac72b63ff8b2505a1691955f16"
           }
         },
         {
@@ -156,6 +946,56 @@
           }
         },
         {
+          "id": "pigcart.particlerain:particlerain:2.0.8@jar",
+          "name": "Particle Rain",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 603307,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/particle-rain-2.0.8.jar",
+            "MD5": "b950dc0bb3802f98995f2a38fda04340"
+          }
+        },
+        {
+          "id": "vazkii.patchouli:patchouli:1.20.1-84-FABRIC@jar",
+          "name": "Patchouli",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 856882,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/Patchouli-1.20.1-84-FABRIC.jar",
+            "MD5": "f6ba47b02420c150a14eac64ac3625ae"
+          }
+        },
+        {
+          "id": "virtuoel.pehkui:pehkui:3.8.3+1.14.4-1.21@jar",
+          "name": "Pehkui",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 555041,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/Pehkui-3.8.3+1.14.4-1.21.jar",
+            "MD5": "c28dbac324e13836c2c15e47bfcd9e45"
+          }
+        },
+        {
+          "id": "fuzs.pickupnotifier:pickupnotifier:8.0.0@jar",
+          "name": "Pick Up Notifier",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 96114,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/PickUpNotifier-v8.0.0-1.20.1-Fabric.jar",
+            "MD5": "b9f9257a7b71de4820e115cd9b67d2b5"
+          }
+        },
+        {
+          "id": "dev.kosmx.playerAnim:player-animator:1.0.2-rc1+1.20@jar",
+          "name": "Player Animator",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 181008,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+            "MD5": "03dfb09aabe5c2c8167568cd5c32666b"
+          }
+        },
+        {
           "id": "generated.fabricmod:porting_lib:2.3.4+1.20.1@jar",
           "name": "Porting Lib",
           "type": "FabricMod",
@@ -163,6 +1003,286 @@
             "size": 3279971,
             "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/porting_lib-2.3.4+1.20.1.jar",
             "MD5": "7dc33c88dd447d153bcb3b6378a5cb74"
+          }
+        },
+        {
+          "id": "eu.ha3:presencefootsteps:1.9.4+1.20.1@jar",
+          "name": "Presence Footsteps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5733027,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/PresenceFootsteps-1.9.4+1.20.1.jar",
+            "MD5": "5d05759103ef318aea55a0cd90d5bd36"
+          }
+        },
+        {
+          "id": "fuzs.puzzleslib.impl:puzzleslib:8.0.15@jar",
+          "name": "Puzzles Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 692564,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/PuzzlesLib-v8.0.15-1.20.1-Fabric.jar",
+            "MD5": "ad66d3b1b9ed74dd6ab265c22664ac12"
+          }
+        },
+        {
+          "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.21@jar",
+          "name": "Puzzles Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 978795,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/PuzzlesLib-v8.1.21-1.20.1-Fabric.jar",
+            "MD5": "eb0c99e235ee5233fcd4063379d92396"
+          }
+        },
+        {
+          "id": "me.shedaniel.rareice:rare-ice:0.6.0@jar",
+          "name": "Rare Ice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 41923,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/rare-ice-0.6.0.jar",
+            "MD5": "a26fa85dcb642273c14660a50e0ba4ef"
+          }
+        },
+        {
+          "id": "generated.fabricmod:reeses-sodium-options:1.7.2+mc1.20.1-build.101@jar",
+          "name": "Reese's Sodium Options",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 77304,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+            "MD5": "0db2ef332dd00de8c64e34f192317118"
+          }
+        },
+        {
+          "id": "com.teamresourceful.resourcefulconfig.web.server:resourcefulconfig:2.1.2@jar",
+          "name": "Resourcefulconfig",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 134793,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/resourcefulconfig-fabric-1.20.1-2.1.2.jar",
+            "MD5": "84b1427c5d4cfd30e54c20ba4120e8d3"
+          }
+        },
+        {
+          "id": "com.teamresourceful:resourcefullib:2.1.25@jar",
+          "name": "Resourceful Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 422902,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/resourcefullib-fabric-1.20.1-2.1.25.jar",
+            "MD5": "01ff9b5fa0a140c8f84d759b33b98ca5"
+          }
+        },
+        {
+          "id": "fuzs.resourcepackoverrides:resourcepackoverrides:8.0.3@jar",
+          "name": "Resource Pack Overrides",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 77659,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/ResourcePackOverrides-v8.0.3-1.20.1-Fabric.jar",
+            "MD5": "05fc917ce7e8f45489285cde5298320f"
+          }
+        },
+        {
+          "id": "ladysnake.satin:satin:1.14.0@jar",
+          "name": "Satin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 99594,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/satin-1.14.0.jar",
+            "MD5": "8d5e00fa285c8de3a3fb1120e16a1026"
+          }
+        },
+        {
+          "id": "nl.teamdiopside:seamless:2.2.2@jar",
+          "name": "Seamless",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 657069,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/seamless-2.2.2-fabric-1.20.1.jar",
+            "MD5": "041d03465c6af345067842a195a91896"
+          }
+        },
+        {
+          "id": "com.minenash:seamless_loading_screen:2.0.3+1.20.1@jar",
+          "name": "Seamless Loading Screen",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1007608,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/seamless-loading-screen-2.0.3+1.20.1-fabric.jar",
+            "MD5": "7fd64cade9204b1986b26fbb22a8dd5c"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mr_ships:3.0.1@jar",
+          "name": "Ships",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 367938,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/ships-3.0.1.jar",
+            "MD5": "71906bfa09053a798c3b2e3e32c9456a"
+          }
+        },
+        {
+          "id": "me.thegiggitybyte:sleepwarp:2.2.0_rc1+1.20.1@jar",
+          "name": "SleepWarp",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 142846,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/sleepwarp-2.2.0_rc1+1.20.1.jar",
+            "MD5": "f879fbcee0569cf925a91a4746125610"
+          }
+        },
+        {
+          "id": "snownee.snow:snowrealmagic:10.4.3@jar",
+          "name": "Snow! Real Magic!",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 187598,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/SnowRealMagic-1.20.1-fabric-10.4.3.jar",
+            "MD5": "d9b2d3b5fb48c6f07a80fd51e7c72e32"
+          }
+        },
+        {
+          "id": "dev.imb11:snowundertrees:2.4.0+1.20.1@jar",
+          "name": "Snow Under Trees",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2406638,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/SnowUnderTrees-2.4.0+1.20.1.jar",
+            "MD5": "7c0aa42a9a6a7e6d57390965a4cb117c"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods.sodiumextra:sodium-extra:0.5.4+mc1.20.1-build.115@jar",
+          "name": "Sodium Extra",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 385539,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/sodium-extra-0.5.4+mc1.20.1-build.115.jar",
+            "MD5": "9eaed09a486eee9a1326de5dd80faa0a"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.8+mc1.20.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 942134,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/sodium-fabric-0.5.8+mc1.20.1.jar",
+            "MD5": "68e366d87fa5c614d64ce031ff548e30"
+          }
+        },
+        {
+          "id": "vice.sol_valheim:sol_valheim:1.1.1@jar",
+          "name": "SOL: Valheim",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 42784,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/sol_valheim-1.1.1-4.jar",
+            "MD5": "c68849ece0068766239352842c1ff58f"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.19.5+mc1.20.1-SNAPSHOT-build.104@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2144085,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.104.jar",
+            "MD5": "0b32fa21dd53dd23a2471aff4a47d334"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:0.5.109+mc1.20.1-SNAPSHOT-build.104@jar",
+          "name": "Sophisticated Core",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2208193,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/sophisticatedcore-0.5.109+mc1.20.1-SNAPSHOT-build.104.jar",
+            "MD5": "89dfc2fe0eb54bc03e32b17e110e2736"
+          }
+        },
+        {
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.2@jar",
+          "name": "Sound Physics Remastered",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 195186,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/sound-physics-remastered-fabric-1.20.1-1.4.2.jar",
+            "MD5": "bfaa38b33a15f1cc90963c5d595c3796"
+          }
+        },
+        {
+          "id": "net.tschipcraft:spawnanimations:1.9.4+mod@jar",
+          "name": "Spawn Animations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 76402,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/spawnanimations-v1.9.4-mc1.17x-1.20x-mod.jar",
+            "MD5": "c5d2a17369750d97273b298b36d82164"
+          }
+        },
+        {
+          "id": "com.ordana:spelunkery:1.20.1-0.3.5@jar",
+          "name": "Spelunkery",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2763510,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/spelunkery-1.20.1-0.3.5-fabric.jar",
+            "MD5": "f8079dae3de79953d2fb23cb2c26383f"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:supplementaries:1.20-2.8.17@jar",
+          "name": "Supplementaries",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 14347091,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/supplementaries-1.20-2.8.17-fabric.jar",
+            "MD5": "d2fb8a9c8f6b398371ed03c75d600de3"
+          }
+        },
+        {
+          "id": "io.chaws:textutilities:1.6.1+1.20.1@jar",
+          "name": "Text Utilities",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 57141,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/text-utilities-fabric-1.6.1+1.20.1.jar",
+            "MD5": "9ecd6c32074703eac5521a423cc5860d"
+          }
+        },
+        {
+          "id": "com.github.getchoo.smoothboot:threadtweak:1.20.2-0.1.1@jar",
+          "name": "ThreadTweak",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 144848,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/threadtweak-fabric-1.20.2-0.1.1.jar",
+            "MD5": "3db999f5fc9b78fdbbf66d12461d49f5"
+          }
+        },
+        {
+          "id": "xyz.trivaxy:tia:1.20-1.1@jar",
+          "name": "Tiny Item Animations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 18492,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/tia-1.20-1.1-fabric.jar",
+            "MD5": "262aef6a6587de46b8238ca1144deea5"
+          }
+        },
+        {
+          "id": "net.darkhax:tipsmod:12.0.5@jar",
+          "name": "Tips",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 100474,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/Tips-Fabric-1.20.1-12.0.5.jar",
+            "MD5": "2f609987db884edd29daed5f88a0258a"
           }
         },
         {
@@ -176,6 +1296,26 @@
           }
         },
         {
+          "id": "generated.fabricmod:mr_vanilla_refresh:1.4.19h@jar",
+          "name": "Vanilla Refresh",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1901677,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/vanilla-refresh-1.4.19h.jar",
+            "MD5": "86a48a981ebdfcf96c980eb7ecf95a53"
+          }
+        },
+        {
+          "id": "visuality:visuality:0.7.1+1.20@jar",
+          "name": "Visuality",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 67302,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/visuality-0.7.1+1.20.jar",
+            "MD5": "14aaa65078fcff3af29fef4e1d7d2161"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.17@jar",
           "name": "Simple Voice Chat",
           "type": "FabricMod",
@@ -183,6 +1323,126 @@
             "size": 8060707,
             "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.17.jar",
             "MD5": "c1e455597228e1de849d45239244ee60"
+          }
+        },
+        {
+          "id": "com.goby56:wakes:0.2.4+1.20.1@jar",
+          "name": "Wakes",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 347775,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/wakes-0.2.4+1.20.1.jar",
+            "MD5": "f75af02420da5245d145257bdf0a080a"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.5.0+1.20.1-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1148529,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar",
+            "MD5": "84ec83096ccce215ad670ce6ea8c3055"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Fabric-4.0.5@jar",
+          "name": "YUNG's API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1391845,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/YungsApi-1.20-Fabric-4.0.5.jar",
+            "MD5": "0829fc5dd3c33ffb4f1ab2f913cbc24a"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterdeserttemples:1.20-Fabric-3.0.3@jar",
+          "name": "YUNG's Better Desert Temples",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1063786,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+            "MD5": "7dd4fec6982f0946575a4caab6248060"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterdungeons:1.20-Fabric-4.0.4@jar",
+          "name": "YUNG's Better Dungeons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 944170,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+            "MD5": "8e324c6508dd74edf1e4705d90139da2"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterjungletemples:1.20-Fabric-2.0.5@jar",
+          "name": "YUNG's Better Jungle Temples",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 947293,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
+            "MD5": "b34e5608a93b6a2aa043e4c49f36aff7"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:bettermineshafts:1.20-Fabric-4.0.4@jar",
+          "name": "YUNG's Better Mineshafts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 621495,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+            "MD5": "88e49e369f9fd20958c87138328b8c3c"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterfortresses:1.20-Fabric-2.0.6@jar",
+          "name": "YUNG's Better Nether Fortresses",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 760974,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+            "MD5": "aefeee128bbae518186bd3d73c59c74a"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betteroceanmonuments:1.20-Fabric-3.0.4@jar",
+          "name": "YUNG's Better Ocean Monuments",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1165832,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+            "MD5": "06c32808f70eaa9f41bcc01c09509229"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterstrongholds:1.20-Fabric-4.0.3@jar",
+          "name": "YUNG's Better Strongholds",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 611598,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+            "MD5": "b0ca22280c7b931a7d3d9be028d3093c"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterwitchhuts:1.20-Fabric-3.0.3@jar",
+          "name": "YUNG's Better Witch Huts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 307196,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+            "MD5": "afa25b703d976cde3d62c8f8d8a980a0"
+          }
+        },
+        {
+          "id": "dev.isxander:zoomify:2.14.0+1.20.1@jar",
+          "name": "Zoomify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 809496,
+            "url": "https://github.com/MisuyaXZ/AnythingSMP/raw/main/servers/AnythingSMP-1.20.1/fabricmods/required/Zoomify-2.14.0+1.20.1.jar",
+            "MD5": "aec4d3b9216c592d89cdbcf1af41ad8a"
           }
         }
       ]
